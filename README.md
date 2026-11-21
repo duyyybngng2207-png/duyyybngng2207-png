@@ -3,8 +3,8 @@
 **PHP Web Developer**, xây dựng website từ giao diện người dùng tới trang quản trị và cơ sở dữ liệu.
 
 - 🔧 Làm việc chủ yếu với **PHP (thuần và CodeIgniter 3), MySQL, JavaScript / jQuery**
-- 🧱 Hiểu và tự xây dựng được mô hình **MVC** (Router, Controller, Model) không cần framework
-- 🌱 Đang tìm kiếm cơ hội làm việc ở vị trí **PHP / Back-end Developer**
+- 🧱 Hiểu và tự xây dựng được mô hình **MVC** (Router, Controller, Model) 
+- 🌱 Đang tìm kiếm cơ hội làm việc ở vị trí **PHP / Fullstack Developer**
 
 ---
 
